@@ -1,9 +1,5 @@
-#!/usr/bin/env python
-"""
-Masked wordcloud
-================
-Using a mask you can generate wordclouds in arbitrary shapes.
-"""
+# Example tweaked from:
+#  https://amueller.github.io/word_cloud/auto_examples/masked.html
 
 from os import path
 from PIL import Image
